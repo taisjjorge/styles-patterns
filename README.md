@@ -4,7 +4,7 @@
  
 _Melhores práticas de **css** com alura_ <br><br>
 
-#### Ensaios focados em estilização
+#### Ensaios focados em estilização, UI
 
 * flexbox
 * grid
